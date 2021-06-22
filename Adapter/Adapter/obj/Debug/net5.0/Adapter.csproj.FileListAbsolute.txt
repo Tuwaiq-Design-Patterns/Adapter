@@ -1,0 +1,15 @@
+/Users/batoolalghamdi/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.deps.json
+/Users/batoolalghamdi/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.runtimeconfig.json
+/Users/batoolalghamdi/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.runtimeconfig.dev.json
+/Users/batoolalghamdi/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.dll
+/Users/batoolalghamdi/Projects/Adapter/Adapter/bin/Debug/net5.0/ref/Adapter.dll
+/Users/batoolalghamdi/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.pdb
+/Users/batoolalghamdi/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.csprojAssemblyReference.cache
+/Users/batoolalghamdi/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/batoolalghamdi/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.AssemblyInfoInputs.cache
+/Users/batoolalghamdi/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.AssemblyInfo.cs
+/Users/batoolalghamdi/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/batoolalghamdi/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.dll
+/Users/batoolalghamdi/Projects/Adapter/Adapter/obj/Debug/net5.0/ref/Adapter.dll
+/Users/batoolalghamdi/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.pdb
+/Users/batoolalghamdi/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.genruntimeconfig.cache
