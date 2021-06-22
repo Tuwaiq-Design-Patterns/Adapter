@@ -1,0 +1,16 @@
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\bin\Debug\net5.0\ThirdPartyBillingSystem.exe
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\bin\Debug\net5.0\ThirdPartyBillingSystem.deps.json
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\bin\Debug\net5.0\ThirdPartyBillingSystem.runtimeconfig.json
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\bin\Debug\net5.0\ThirdPartyBillingSystem.runtimeconfig.dev.json
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\bin\Debug\net5.0\ThirdPartyBillingSystem.dll
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\bin\Debug\net5.0\ref\ThirdPartyBillingSystem.dll
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\bin\Debug\net5.0\ThirdPartyBillingSystem.pdb
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\obj\Debug\net5.0\ThirdPartyBillingSystem.csproj.AssemblyReference.cache
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\obj\Debug\net5.0\ThirdPartyBillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\obj\Debug\net5.0\ThirdPartyBillingSystem.AssemblyInfoInputs.cache
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\obj\Debug\net5.0\ThirdPartyBillingSystem.AssemblyInfo.cs
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\obj\Debug\net5.0\ThirdPartyBillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\obj\Debug\net5.0\ThirdPartyBillingSystem.dll
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\obj\Debug\net5.0\ref\ThirdPartyBillingSystem.dll
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\obj\Debug\net5.0\ThirdPartyBillingSystem.pdb
+C:\Users\Adel_Kalu\source\repos\ThirdPartyBillingSystem\ThirdPartyBillingSystem\obj\Debug\net5.0\ThirdPartyBillingSystem.genruntimeconfig.cache
