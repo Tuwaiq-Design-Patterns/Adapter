@@ -1,0 +1,16 @@
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\AdapterDesignPattern.exe
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\AdapterDesignPattern.deps.json
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\AdapterDesignPattern.runtimeconfig.json
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\AdapterDesignPattern.runtimeconfig.dev.json
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\AdapterDesignPattern.dll
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\ref\AdapterDesignPattern.dll
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net5.0\AdapterDesignPattern.pdb
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.AssemblyInfo.cs
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.dll
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\ref\AdapterDesignPattern.dll
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.pdb
+C:\Users\Turki\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net5.0\AdapterDesignPattern.genruntimeconfig.cache
