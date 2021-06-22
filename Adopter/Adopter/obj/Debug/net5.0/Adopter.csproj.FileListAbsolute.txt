@@ -1,0 +1,16 @@
+C:\Users\hussa\source\repos\Adopter\Adopter\bin\Debug\net5.0\Adopter.exe
+C:\Users\hussa\source\repos\Adopter\Adopter\bin\Debug\net5.0\Adopter.deps.json
+C:\Users\hussa\source\repos\Adopter\Adopter\bin\Debug\net5.0\Adopter.runtimeconfig.json
+C:\Users\hussa\source\repos\Adopter\Adopter\bin\Debug\net5.0\Adopter.runtimeconfig.dev.json
+C:\Users\hussa\source\repos\Adopter\Adopter\bin\Debug\net5.0\Adopter.dll
+C:\Users\hussa\source\repos\Adopter\Adopter\bin\Debug\net5.0\ref\Adopter.dll
+C:\Users\hussa\source\repos\Adopter\Adopter\bin\Debug\net5.0\Adopter.pdb
+C:\Users\hussa\source\repos\Adopter\Adopter\obj\Debug\net5.0\Adopter.csprojAssemblyReference.cache
+C:\Users\hussa\source\repos\Adopter\Adopter\obj\Debug\net5.0\Adopter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussa\source\repos\Adopter\Adopter\obj\Debug\net5.0\Adopter.AssemblyInfoInputs.cache
+C:\Users\hussa\source\repos\Adopter\Adopter\obj\Debug\net5.0\Adopter.AssemblyInfo.cs
+C:\Users\hussa\source\repos\Adopter\Adopter\obj\Debug\net5.0\Adopter.csproj.CoreCompileInputs.cache
+C:\Users\hussa\source\repos\Adopter\Adopter\obj\Debug\net5.0\Adopter.dll
+C:\Users\hussa\source\repos\Adopter\Adopter\obj\Debug\net5.0\ref\Adopter.dll
+C:\Users\hussa\source\repos\Adopter\Adopter\obj\Debug\net5.0\Adopter.pdb
+C:\Users\hussa\source\repos\Adopter\Adopter\obj\Debug\net5.0\Adopter.genruntimeconfig.cache
