@@ -1,0 +1,16 @@
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\bin\Debug\net5.0\AdapterPractice.exe
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\bin\Debug\net5.0\AdapterPractice.deps.json
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\bin\Debug\net5.0\AdapterPractice.runtimeconfig.json
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\bin\Debug\net5.0\AdapterPractice.runtimeconfig.dev.json
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\bin\Debug\net5.0\AdapterPractice.dll
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\bin\Debug\net5.0\ref\AdapterPractice.dll
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\bin\Debug\net5.0\AdapterPractice.pdb
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\obj\Debug\net5.0\AdapterPractice.csprojAssemblyReference.cache
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\obj\Debug\net5.0\AdapterPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\obj\Debug\net5.0\AdapterPractice.AssemblyInfoInputs.cache
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\obj\Debug\net5.0\AdapterPractice.AssemblyInfo.cs
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\obj\Debug\net5.0\AdapterPractice.csproj.CoreCompileInputs.cache
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\obj\Debug\net5.0\AdapterPractice.dll
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\obj\Debug\net5.0\ref\AdapterPractice.dll
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\obj\Debug\net5.0\AdapterPractice.pdb
+D:\Tuwaiq\DesignPatterns\practice\AdapterPractice\AdapterPractice\obj\Debug\net5.0\AdapterPractice.genruntimeconfig.cache
