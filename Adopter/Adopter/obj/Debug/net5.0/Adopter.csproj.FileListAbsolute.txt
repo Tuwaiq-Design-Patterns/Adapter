@@ -1,0 +1,16 @@
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\bin\Debug\net5.0\Adopter.exe
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\bin\Debug\net5.0\Adopter.deps.json
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\bin\Debug\net5.0\Adopter.runtimeconfig.json
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\bin\Debug\net5.0\Adopter.runtimeconfig.dev.json
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\bin\Debug\net5.0\Adopter.dll
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\bin\Debug\net5.0\ref\Adopter.dll
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\bin\Debug\net5.0\Adopter.pdb
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\obj\Debug\net5.0\Adopter.csprojAssemblyReference.cache
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\obj\Debug\net5.0\Adopter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\obj\Debug\net5.0\Adopter.AssemblyInfoInputs.cache
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\obj\Debug\net5.0\Adopter.AssemblyInfo.cs
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\obj\Debug\net5.0\Adopter.csproj.CoreCompileInputs.cache
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\obj\Debug\net5.0\Adopter.dll
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\obj\Debug\net5.0\ref\Adopter.dll
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\obj\Debug\net5.0\Adopter.pdb
+D:\Developing\Tuwaiq\dotNet\Projects\Project03_CRUD_With_ASP.NET_MVC\Adopter\Adopter\obj\Debug\net5.0\Adopter.genruntimeconfig.cache
