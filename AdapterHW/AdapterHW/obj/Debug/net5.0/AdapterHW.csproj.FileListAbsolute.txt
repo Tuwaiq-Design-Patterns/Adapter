@@ -1,0 +1,16 @@
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\bin\Debug\net5.0\AdapterHW.exe
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\bin\Debug\net5.0\AdapterHW.deps.json
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\bin\Debug\net5.0\AdapterHW.runtimeconfig.json
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\bin\Debug\net5.0\AdapterHW.runtimeconfig.dev.json
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\bin\Debug\net5.0\AdapterHW.dll
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\bin\Debug\net5.0\ref\AdapterHW.dll
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\bin\Debug\net5.0\AdapterHW.pdb
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\obj\Debug\net5.0\AdapterHW.csprojAssemblyReference.cache
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\obj\Debug\net5.0\AdapterHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\obj\Debug\net5.0\AdapterHW.AssemblyInfoInputs.cache
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\obj\Debug\net5.0\AdapterHW.AssemblyInfo.cs
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\obj\Debug\net5.0\AdapterHW.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\obj\Debug\net5.0\AdapterHW.dll
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\obj\Debug\net5.0\ref\AdapterHW.dll
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\obj\Debug\net5.0\AdapterHW.pdb
+C:\Users\Abdullah\Desktop\Tuwaiq\Design Pattern\Assignments\AdapterHW\AdapterHW\obj\Debug\net5.0\AdapterHW.genruntimeconfig.cache
