@@ -1,2 +1,10 @@
 # Adapter
-this repo contains Adapter design pattern implementation using C#
+
+ Adapter design pattern implementation using C#
+
+ # The idea 
+user need to login and the adapter adapts according to the way you log in either twitter or printrest 
+
+
+# UML Digram
+![UML digram](./UML/Adapter.png)
