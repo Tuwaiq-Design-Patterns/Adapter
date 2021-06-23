@@ -6,3 +6,5 @@
 user need to login and the adapter adapts according to the way you log in either twitter or printrest 
 
 
+# UML Digram
+![UML digram](./UML/Adapter.png)
