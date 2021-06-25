@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xG+NvfU3xMYed/GTGLnB1nfrLYfsZAs5p0Rg7BG7t0A6VRaKgnUTWa+Bmpr6HQgD/GCuFEHlSuOiAh1UKrTmoQ==",
+  "dgSpecHash": "jSMJs9wjLChJLHsMrE9IDUgULMOY4pZbnfSM5YNds3U9exxbKYLU9ZhiGnyfOCXgTGUrnnXAn+4yDkdEO3Vzvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\DP\\PROJECTS\\Adapter\\Adapter-pro\\Adapter-pro\\Adapter-pro.csproj",
+  "projectFilePath": "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\DP\\PROJECTS\\Adapter\\Adapter\\Adapter-pro\\Adapter-pro\\Adapter-pro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rhm30\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

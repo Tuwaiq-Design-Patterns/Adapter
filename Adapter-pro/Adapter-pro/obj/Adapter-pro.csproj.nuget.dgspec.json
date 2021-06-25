@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\DP\\PROJECTS\\Adapter\\Adapter-pro\\Adapter-pro\\Adapter-pro.csproj": {}
+    "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\DP\\PROJECTS\\Adapter\\Adapter\\Adapter-pro\\Adapter-pro\\Adapter-pro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\DP\\PROJECTS\\Adapter\\Adapter-pro\\Adapter-pro\\Adapter-pro.csproj": {
+    "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\DP\\PROJECTS\\Adapter\\Adapter\\Adapter-pro\\Adapter-pro\\Adapter-pro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\DP\\PROJECTS\\Adapter\\Adapter-pro\\Adapter-pro\\Adapter-pro.csproj",
+        "projectUniqueName": "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\DP\\PROJECTS\\Adapter\\Adapter\\Adapter-pro\\Adapter-pro\\Adapter-pro.csproj",
         "projectName": "Adapter-pro",
-        "projectPath": "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\DP\\PROJECTS\\Adapter\\Adapter-pro\\Adapter-pro\\Adapter-pro.csproj",
+        "projectPath": "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\DP\\PROJECTS\\Adapter\\Adapter\\Adapter-pro\\Adapter-pro\\Adapter-pro.csproj",
         "packagesPath": "C:\\Users\\rhm30\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\DP\\PROJECTS\\Adapter\\Adapter-pro\\Adapter-pro\\obj\\",
+        "outputPath": "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\DP\\PROJECTS\\Adapter\\Adapter\\Adapter-pro\\Adapter-pro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rhm30\\AppData\\Roaming\\NuGet\\NuGet.Config",
