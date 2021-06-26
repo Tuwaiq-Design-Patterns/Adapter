@@ -1,0 +1,16 @@
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\bin\Debug\net5.0\AdapterDrill.exe
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\bin\Debug\net5.0\AdapterDrill.deps.json
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\bin\Debug\net5.0\AdapterDrill.runtimeconfig.json
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\bin\Debug\net5.0\AdapterDrill.runtimeconfig.dev.json
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\bin\Debug\net5.0\AdapterDrill.dll
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\bin\Debug\net5.0\ref\AdapterDrill.dll
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\bin\Debug\net5.0\AdapterDrill.pdb
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\obj\Debug\net5.0\AdapterDrill.csprojAssemblyReference.cache
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\obj\Debug\net5.0\AdapterDrill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\obj\Debug\net5.0\AdapterDrill.AssemblyInfoInputs.cache
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\obj\Debug\net5.0\AdapterDrill.AssemblyInfo.cs
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\obj\Debug\net5.0\AdapterDrill.csproj.CoreCompileInputs.cache
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\obj\Debug\net5.0\AdapterDrill.dll
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\obj\Debug\net5.0\ref\AdapterDrill.dll
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\obj\Debug\net5.0\AdapterDrill.pdb
+C:\Users\lenovo1\RiderProjects\AdapterDrill\AdapterDrill\obj\Debug\net5.0\AdapterDrill.genruntimeconfig.cache

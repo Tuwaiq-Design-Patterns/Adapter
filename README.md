@@ -1,2 +1,5 @@
 # Adapter
-this repo contains Adapter design pattern implementation using C#
+
+## Class Diagram 
+
+![alt text](https://github.com/aldundur-Mansour/Adapter/blob/main/AdapterUML.png?raw=true)
