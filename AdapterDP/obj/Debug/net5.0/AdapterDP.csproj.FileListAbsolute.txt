@@ -1,0 +1,16 @@
+C:\Users\Pivot85\source\repos\AdapterDP\bin\Debug\net5.0\AdapterDP.exe
+C:\Users\Pivot85\source\repos\AdapterDP\bin\Debug\net5.0\AdapterDP.deps.json
+C:\Users\Pivot85\source\repos\AdapterDP\bin\Debug\net5.0\AdapterDP.runtimeconfig.json
+C:\Users\Pivot85\source\repos\AdapterDP\bin\Debug\net5.0\AdapterDP.runtimeconfig.dev.json
+C:\Users\Pivot85\source\repos\AdapterDP\bin\Debug\net5.0\AdapterDP.dll
+C:\Users\Pivot85\source\repos\AdapterDP\bin\Debug\net5.0\ref\AdapterDP.dll
+C:\Users\Pivot85\source\repos\AdapterDP\bin\Debug\net5.0\AdapterDP.pdb
+C:\Users\Pivot85\source\repos\AdapterDP\obj\Debug\net5.0\AdapterDP.csproj.AssemblyReference.cache
+C:\Users\Pivot85\source\repos\AdapterDP\obj\Debug\net5.0\AdapterDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pivot85\source\repos\AdapterDP\obj\Debug\net5.0\AdapterDP.AssemblyInfoInputs.cache
+C:\Users\Pivot85\source\repos\AdapterDP\obj\Debug\net5.0\AdapterDP.AssemblyInfo.cs
+C:\Users\Pivot85\source\repos\AdapterDP\obj\Debug\net5.0\AdapterDP.csproj.CoreCompileInputs.cache
+C:\Users\Pivot85\source\repos\AdapterDP\obj\Debug\net5.0\AdapterDP.dll
+C:\Users\Pivot85\source\repos\AdapterDP\obj\Debug\net5.0\ref\AdapterDP.dll
+C:\Users\Pivot85\source\repos\AdapterDP\obj\Debug\net5.0\AdapterDP.pdb
+C:\Users\Pivot85\source\repos\AdapterDP\obj\Debug\net5.0\AdapterDP.genruntimeconfig.cache
