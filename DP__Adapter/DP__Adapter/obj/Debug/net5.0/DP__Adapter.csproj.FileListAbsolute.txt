@@ -1,0 +1,16 @@
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\bin\Debug\net5.0\DP__Adapter.exe
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\bin\Debug\net5.0\DP__Adapter.deps.json
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\bin\Debug\net5.0\DP__Adapter.runtimeconfig.json
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\bin\Debug\net5.0\DP__Adapter.runtimeconfig.dev.json
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\bin\Debug\net5.0\DP__Adapter.dll
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\bin\Debug\net5.0\ref\DP__Adapter.dll
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\bin\Debug\net5.0\DP__Adapter.pdb
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\obj\Debug\net5.0\DP__Adapter.csproj.AssemblyReference.cache
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\obj\Debug\net5.0\DP__Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\obj\Debug\net5.0\DP__Adapter.AssemblyInfoInputs.cache
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\obj\Debug\net5.0\DP__Adapter.AssemblyInfo.cs
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\obj\Debug\net5.0\DP__Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\obj\Debug\net5.0\DP__Adapter.dll
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\obj\Debug\net5.0\ref\DP__Adapter.dll
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\obj\Debug\net5.0\DP__Adapter.pdb
+C:\Users\Samirah Alhusayni\source\repos\DP__Adapter\DP__Adapter\obj\Debug\net5.0\DP__Adapter.genruntimeconfig.cache
