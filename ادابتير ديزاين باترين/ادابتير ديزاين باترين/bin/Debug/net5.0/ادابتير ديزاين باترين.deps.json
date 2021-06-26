@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ادابتير ديزاين باترين/1.0.0": {
+        "runtime": {
+          "ادابتير ديزاين باترين.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ادابتير ديزاين باترين/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\bin\Debug\net5.0\ادابتير ديزاين باترين.exe
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\bin\Debug\net5.0\ادابتير ديزاين باترين.deps.json
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\bin\Debug\net5.0\ادابتير ديزاين باترين.runtimeconfig.json
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\bin\Debug\net5.0\ادابتير ديزاين باترين.runtimeconfig.dev.json
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\bin\Debug\net5.0\ادابتير ديزاين باترين.dll
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\bin\Debug\net5.0\ref\ادابتير ديزاين باترين.dll
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\bin\Debug\net5.0\ادابتير ديزاين باترين.pdb
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\obj\Debug\net5.0\ادابتير ديزاين باترين.csprojAssemblyReference.cache
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\obj\Debug\net5.0\ادابتير ديزاين باترين.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\obj\Debug\net5.0\ادابتير ديزاين باترين.AssemblyInfoInputs.cache
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\obj\Debug\net5.0\ادابتير ديزاين باترين.AssemblyInfo.cs
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\obj\Debug\net5.0\ادابتير ديزاين باترين.csproj.CoreCompileInputs.cache
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\obj\Debug\net5.0\ادابتير ديزاين باترين.dll
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\obj\Debug\net5.0\ref\ادابتير ديزاين باترين.dll
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\obj\Debug\net5.0\ادابتير ديزاين باترين.pdb
+C:\Users\h--sa\RiderProjects\ادابتير ديزاين باترين\ادابتير ديزاين باترين\obj\Debug\net5.0\ادابتير ديزاين باترين.genruntimeconfig.cache
