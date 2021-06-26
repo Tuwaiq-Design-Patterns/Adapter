@@ -1,0 +1,12 @@
+/Users/arwawanla/Projects/design pattern/adapter/adapter/bin/Debug/netcoreapp3.1/adapter.deps.json
+/Users/arwawanla/Projects/design pattern/adapter/adapter/bin/Debug/netcoreapp3.1/adapter.runtimeconfig.json
+/Users/arwawanla/Projects/design pattern/adapter/adapter/bin/Debug/netcoreapp3.1/adapter.runtimeconfig.dev.json
+/Users/arwawanla/Projects/design pattern/adapter/adapter/bin/Debug/netcoreapp3.1/adapter.dll
+/Users/arwawanla/Projects/design pattern/adapter/adapter/bin/Debug/netcoreapp3.1/adapter.pdb
+/Users/arwawanla/Projects/design pattern/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.csprojAssemblyReference.cache
+/Users/arwawanla/Projects/design pattern/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.AssemblyInfoInputs.cache
+/Users/arwawanla/Projects/design pattern/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.AssemblyInfo.cs
+/Users/arwawanla/Projects/design pattern/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.csproj.CoreCompileInputs.cache
+/Users/arwawanla/Projects/design pattern/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.dll
+/Users/arwawanla/Projects/design pattern/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.pdb
+/Users/arwawanla/Projects/design pattern/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.genruntimeconfig.cache
