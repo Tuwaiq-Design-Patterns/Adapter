@@ -1,0 +1,16 @@
+C:\Users\rooke\Desktop\Adapter\Adapter\bin\Debug\net5.0\Adapter.exe
+C:\Users\rooke\Desktop\Adapter\Adapter\bin\Debug\net5.0\Adapter.deps.json
+C:\Users\rooke\Desktop\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+C:\Users\rooke\Desktop\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+C:\Users\rooke\Desktop\Adapter\Adapter\bin\Debug\net5.0\Adapter.dll
+C:\Users\rooke\Desktop\Adapter\Adapter\bin\Debug\net5.0\ref\Adapter.dll
+C:\Users\rooke\Desktop\Adapter\Adapter\bin\Debug\net5.0\Adapter.pdb
+C:\Users\rooke\Desktop\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\rooke\Desktop\Adapter\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rooke\Desktop\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\rooke\Desktop\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+C:\Users\rooke\Desktop\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\rooke\Desktop\Adapter\Adapter\obj\Debug\net5.0\Adapter.dll
+C:\Users\rooke\Desktop\Adapter\Adapter\obj\Debug\net5.0\ref\Adapter.dll
+C:\Users\rooke\Desktop\Adapter\Adapter\obj\Debug\net5.0\Adapter.pdb
+C:\Users\rooke\Desktop\Adapter\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache
