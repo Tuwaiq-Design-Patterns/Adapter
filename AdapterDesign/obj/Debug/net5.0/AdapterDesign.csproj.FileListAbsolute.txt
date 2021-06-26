@@ -1,0 +1,16 @@
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\bin\Debug\net5.0\AdapterDesign.exe
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\bin\Debug\net5.0\AdapterDesign.deps.json
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\bin\Debug\net5.0\AdapterDesign.runtimeconfig.json
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\bin\Debug\net5.0\AdapterDesign.runtimeconfig.dev.json
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\bin\Debug\net5.0\AdapterDesign.dll
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\bin\Debug\net5.0\ref\AdapterDesign.dll
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\bin\Debug\net5.0\AdapterDesign.pdb
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\obj\Debug\net5.0\AdapterDesign.csprojAssemblyReference.cache
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\obj\Debug\net5.0\AdapterDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\obj\Debug\net5.0\AdapterDesign.AssemblyInfoInputs.cache
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\obj\Debug\net5.0\AdapterDesign.AssemblyInfo.cs
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\obj\Debug\net5.0\AdapterDesign.csproj.CoreCompileInputs.cache
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\obj\Debug\net5.0\AdapterDesign.dll
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\obj\Debug\net5.0\ref\AdapterDesign.dll
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\obj\Debug\net5.0\AdapterDesign.pdb
+C:\Users\aashq\source\repos\AdapterDesign\AdapterDesign\obj\Debug\net5.0\AdapterDesign.genruntimeconfig.cache
