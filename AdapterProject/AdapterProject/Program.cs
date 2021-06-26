@@ -19,7 +19,7 @@ namespace AdapterProject
 		{
          public void playMov(string fileName)
 		{
-			Console.WriteLine("Playing vlc file. Name: " + fileName);
+			Console.WriteLine("Playing Mov file. Name: " + fileName);
 		}
 
             public void playMp4(string fileName)
@@ -40,12 +40,10 @@ namespace AdapterProject
 
             public void PlayMp4(string fileName)
 		{
-				Console.WriteLine("Playing mp4 file. Name: " + fileName);
+				Console.WriteLine("Playing mp4 file Name: " + fileName);
 		}
 
-            public void playMp4(string fileName)
-            {
-            }
+         
         }
 
 
@@ -105,7 +103,7 @@ public class MediaAdapter : MediaPlayer
 
 			else
 			{
-					Console.WriteLine("Invalid media. " + audioType + " format not supported");
+			Console.WriteLine("Invalid media. " + audioType + " format not supported");
 			}
 		}
 	}
