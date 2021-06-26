@@ -1,0 +1,16 @@
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\bin\Debug\net5.0\AdapterDemo.exe
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\bin\Debug\net5.0\AdapterDemo.deps.json
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\bin\Debug\net5.0\AdapterDemo.runtimeconfig.json
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\bin\Debug\net5.0\AdapterDemo.runtimeconfig.dev.json
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\bin\Debug\net5.0\AdapterDemo.dll
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\bin\Debug\net5.0\ref\AdapterDemo.dll
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\bin\Debug\net5.0\AdapterDemo.pdb
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\obj\Debug\net5.0\AdapterDemo.csproj.AssemblyReference.cache
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\obj\Debug\net5.0\AdapterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\obj\Debug\net5.0\AdapterDemo.AssemblyInfoInputs.cache
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\obj\Debug\net5.0\AdapterDemo.AssemblyInfo.cs
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\obj\Debug\net5.0\AdapterDemo.csproj.CoreCompileInputs.cache
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\obj\Debug\net5.0\AdapterDemo.dll
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\obj\Debug\net5.0\ref\AdapterDemo.dll
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\obj\Debug\net5.0\AdapterDemo.pdb
+C:\Users\IBRA\RiderProjects\AdapterDemo\AdapterDemo\obj\Debug\net5.0\AdapterDemo.genruntimeconfig.cache
