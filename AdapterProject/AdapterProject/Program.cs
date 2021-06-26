@@ -19,7 +19,7 @@ namespace AdapterProject
 		{
          public void playMov(string fileName)
 		{
-			Console.WriteLine("Playing Mov file. Name: " + fileName);
+		Console.WriteLine("Playing Mov file. Name: " + fileName);
 		}
 
             public void playMp4(string fileName)
@@ -30,17 +30,17 @@ namespace AdapterProject
     
          public class Mp4Player : AdvancedMediaPlayer
 		{
-
-
        
 
             public void playMov(string fileName)
             {
+		throw new NotImplementedException();
+
             }
 
             public void PlayMp4(string fileName)
 		{
-				Console.WriteLine("Playing mp4 file Name: " + fileName);
+	Console.WriteLine("Playing mp4 file Name: " + fileName);
 		}
 
          
@@ -50,7 +50,7 @@ namespace AdapterProject
 public class MediaAdapter : MediaPlayer
 		{
 
-			AdvancedMediaPlayer advancedMusicPlayer;
+        AdvancedMediaPlayer advancedMusicPlayer;
 
 
    public MediaAdapter(string audioType)
