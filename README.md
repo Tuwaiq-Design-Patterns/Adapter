@@ -7,3 +7,4 @@ On the other hand we have ThirdPartyBillingSystem which will Process employees s
 And this is what our ADAPTER exactly going to do.
 
 ## Example uml diagram :
+![Blank diagram (2)](https://user-images.githubusercontent.com/82523761/123527670-05a01280-d6ea-11eb-91d3-5f4a204d02f4.png)
