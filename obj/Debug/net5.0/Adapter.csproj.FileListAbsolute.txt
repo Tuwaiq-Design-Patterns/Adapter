@@ -1,0 +1,15 @@
+/Users/afra/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.csproj.AssemblyReference.cache
+/Users/afra/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afra/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.AssemblyInfoInputs.cache
+/Users/afra/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.AssemblyInfo.cs
+/Users/afra/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/afra/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.deps.json
+/Users/afra/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.runtimeconfig.json
+/Users/afra/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.runtimeconfig.dev.json
+/Users/afra/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.dll
+/Users/afra/Projects/Adapter/Adapter/bin/Debug/net5.0/ref/Adapter.dll
+/Users/afra/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.pdb
+/Users/afra/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.dll
+/Users/afra/Projects/Adapter/Adapter/obj/Debug/net5.0/ref/Adapter.dll
+/Users/afra/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.pdb
+/Users/afra/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.genruntimeconfig.cache
