@@ -1,0 +1,12 @@
+/Users/nadaalotaibi/Projects/AdapterProject/AdapterProject/bin/Debug/netcoreapp3.1/AdapterProject.deps.json
+/Users/nadaalotaibi/Projects/AdapterProject/AdapterProject/bin/Debug/netcoreapp3.1/AdapterProject.runtimeconfig.json
+/Users/nadaalotaibi/Projects/AdapterProject/AdapterProject/bin/Debug/netcoreapp3.1/AdapterProject.runtimeconfig.dev.json
+/Users/nadaalotaibi/Projects/AdapterProject/AdapterProject/bin/Debug/netcoreapp3.1/AdapterProject.dll
+/Users/nadaalotaibi/Projects/AdapterProject/AdapterProject/bin/Debug/netcoreapp3.1/AdapterProject.pdb
+/Users/nadaalotaibi/Projects/AdapterProject/AdapterProject/obj/Debug/netcoreapp3.1/AdapterProject.csprojAssemblyReference.cache
+/Users/nadaalotaibi/Projects/AdapterProject/AdapterProject/obj/Debug/netcoreapp3.1/AdapterProject.AssemblyInfoInputs.cache
+/Users/nadaalotaibi/Projects/AdapterProject/AdapterProject/obj/Debug/netcoreapp3.1/AdapterProject.AssemblyInfo.cs
+/Users/nadaalotaibi/Projects/AdapterProject/AdapterProject/obj/Debug/netcoreapp3.1/AdapterProject.csproj.CoreCompileInputs.cache
+/Users/nadaalotaibi/Projects/AdapterProject/AdapterProject/obj/Debug/netcoreapp3.1/AdapterProject.dll
+/Users/nadaalotaibi/Projects/AdapterProject/AdapterProject/obj/Debug/netcoreapp3.1/AdapterProject.pdb
+/Users/nadaalotaibi/Projects/AdapterProject/AdapterProject/obj/Debug/netcoreapp3.1/AdapterProject.genruntimeconfig.cache
