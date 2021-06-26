@@ -1,0 +1,16 @@
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\bin\Debug\net5.0\AdapteDesignPattren.exe
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\bin\Debug\net5.0\AdapteDesignPattren.deps.json
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\bin\Debug\net5.0\AdapteDesignPattren.runtimeconfig.json
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\bin\Debug\net5.0\AdapteDesignPattren.runtimeconfig.dev.json
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\bin\Debug\net5.0\AdapteDesignPattren.dll
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\bin\Debug\net5.0\ref\AdapteDesignPattren.dll
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\bin\Debug\net5.0\AdapteDesignPattren.pdb
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\obj\Debug\net5.0\AdapteDesignPattren.csproj.AssemblyReference.cache
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\obj\Debug\net5.0\AdapteDesignPattren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\obj\Debug\net5.0\AdapteDesignPattren.AssemblyInfoInputs.cache
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\obj\Debug\net5.0\AdapteDesignPattren.AssemblyInfo.cs
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\obj\Debug\net5.0\AdapteDesignPattren.csproj.CoreCompileInputs.cache
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\obj\Debug\net5.0\AdapteDesignPattren.dll
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\obj\Debug\net5.0\ref\AdapteDesignPattren.dll
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\obj\Debug\net5.0\AdapteDesignPattren.pdb
+C:\Users\Shaha\source\repos\AdapteDesignPattren\AdapteDesignPattren\obj\Debug\net5.0\AdapteDesignPattren.genruntimeconfig.cache
