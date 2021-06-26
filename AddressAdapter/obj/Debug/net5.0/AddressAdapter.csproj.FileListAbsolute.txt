@@ -1,0 +1,16 @@
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\bin\Debug\net5.0\AddressAdapter.exe
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\bin\Debug\net5.0\AddressAdapter.deps.json
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\bin\Debug\net5.0\AddressAdapter.runtimeconfig.json
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\bin\Debug\net5.0\AddressAdapter.runtimeconfig.dev.json
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\bin\Debug\net5.0\AddressAdapter.dll
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\bin\Debug\net5.0\ref\AddressAdapter.dll
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\bin\Debug\net5.0\AddressAdapter.pdb
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\obj\Debug\net5.0\AddressAdapter.csprojAssemblyReference.cache
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\obj\Debug\net5.0\AddressAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\obj\Debug\net5.0\AddressAdapter.AssemblyInfoInputs.cache
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\obj\Debug\net5.0\AddressAdapter.AssemblyInfo.cs
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\obj\Debug\net5.0\AddressAdapter.csproj.CoreCompileInputs.cache
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\obj\Debug\net5.0\AddressAdapter.dll
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\obj\Debug\net5.0\ref\AddressAdapter.dll
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\obj\Debug\net5.0\AddressAdapter.pdb
+C:\Users\a-22_\RiderProjects\AddressAdapter\AddressAdapter\obj\Debug\net5.0\AddressAdapter.genruntimeconfig.cache
