@@ -19,7 +19,7 @@ namespace AdapterProject
 		{
          public void playMov(string fileName)
 		{
-		Console.WriteLine("Playing Mov file. Name: " + fileName);
+		Console.WriteLine("Playing Mov file  Name: " + fileName);
 		}
 
             public void playMp4(string fileName)
