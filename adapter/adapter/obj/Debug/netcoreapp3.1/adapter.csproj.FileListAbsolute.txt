@@ -1,0 +1,12 @@
+/Users/hanans/Desktop/t/projects/Adapter/adapter/adapter/bin/Debug/netcoreapp3.1/adapter.deps.json
+/Users/hanans/Desktop/t/projects/Adapter/adapter/adapter/bin/Debug/netcoreapp3.1/adapter.runtimeconfig.json
+/Users/hanans/Desktop/t/projects/Adapter/adapter/adapter/bin/Debug/netcoreapp3.1/adapter.runtimeconfig.dev.json
+/Users/hanans/Desktop/t/projects/Adapter/adapter/adapter/bin/Debug/netcoreapp3.1/adapter.dll
+/Users/hanans/Desktop/t/projects/Adapter/adapter/adapter/bin/Debug/netcoreapp3.1/adapter.pdb
+/Users/hanans/Desktop/t/projects/Adapter/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.csproj.AssemblyReference.cache
+/Users/hanans/Desktop/t/projects/Adapter/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.AssemblyInfoInputs.cache
+/Users/hanans/Desktop/t/projects/Adapter/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.AssemblyInfo.cs
+/Users/hanans/Desktop/t/projects/Adapter/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.csproj.CoreCompileInputs.cache
+/Users/hanans/Desktop/t/projects/Adapter/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.dll
+/Users/hanans/Desktop/t/projects/Adapter/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.pdb
+/Users/hanans/Desktop/t/projects/Adapter/adapter/adapter/obj/Debug/netcoreapp3.1/adapter.genruntimeconfig.cache
