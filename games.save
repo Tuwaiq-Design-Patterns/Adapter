@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGamesDto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GamesDto>
+    <title>Quantum League</title>
+    <gameID>216328</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>10.0</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Half-Life</title>
+    <gameID>75</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>10.0</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Half-Life 2</title>
+    <gameID>59</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>10.0</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Portal 2</title>
+    <gameID>36</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>10.0</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Deus Ex: Human Revolution - Director's Cut</title>
+    <gameID>102249</gameID>
+    <salePrice>2.99</salePrice>
+    <normalPrice>19.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.8</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Tumblestone</title>
+    <gameID>154838</gameID>
+    <salePrice>3.74</salePrice>
+    <normalPrice>24.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.7</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Blast Ensemble</title>
+    <gameID>229839</gameID>
+    <salePrice>1.89</salePrice>
+    <normalPrice>18.99</normalPrice>
+    <dealRating>9.7</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Blind</title>
+    <gameID>192184</gameID>
+    <salePrice>2.49</salePrice>
+    <normalPrice>24.99</normalPrice>
+    <steamRatingText>Mostly Positive</steamRatingText>
+    <dealRating>9.7</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Homeworld Remastered Collection</title>
+    <gameID>141243</gameID>
+    <salePrice>3.49</salePrice>
+    <normalPrice>34.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.6</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Amnesia: The Dark Descent</title>
+    <gameID>86</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>19.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>9.6</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Thief: Deadly Shadows</title>
+    <gameID>396</gameID>
+    <salePrice>0.98</salePrice>
+    <normalPrice>8.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.6</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Just Cause 2</title>
+    <gameID>180</gameID>
+    <salePrice>1.49</salePrice>
+    <normalPrice>14.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.6</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>DuelVox: Max Quality</title>
+    <gameID>228627</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>19.99</normalPrice>
+    <steamRatingText>Positive</steamRatingText>
+    <dealRating>9.6</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Terrian Saga: KR-17</title>
+    <gameID>116570</gameID>
+    <salePrice>0.49</salePrice>
+    <normalPrice>4.99</normalPrice>
+    <steamRatingText>Mostly Positive</steamRatingText>
+    <dealRating>9.5</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Thief II: The Metal Age</title>
+    <gameID>87640</gameID>
+    <salePrice>0.97</salePrice>
+    <normalPrice>6.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.5</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Shadow Tactics: Blades of the Shogun</title>
+    <gameID>158443</gameID>
+    <salePrice>3.99</salePrice>
+    <normalPrice>39.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>9.5</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>SOMA</title>
+    <gameID>145410</gameID>
+    <salePrice>2.99</salePrice>
+    <normalPrice>29.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>9.5</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Monaco: What's Yours Is Mine</title>
+    <gameID>96978</gameID>
+    <salePrice>1.49</salePrice>
+    <normalPrice>14.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.5</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Shachibato! President, Its Time for Battle! Maju Wars</title>
+    <gameID>227957</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>19.99</normalPrice>
+    <steamRatingText>Mostly Positive</steamRatingText>
+    <dealRating>9.5</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>The Witcher 2: Assassins of Kings Enhanced Edition</title>
+    <gameID>5572</gameID>
+    <salePrice>2.99</salePrice>
+    <normalPrice>19.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.5</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Far Cry 3</title>
+    <gameID>88168</gameID>
+    <salePrice>2.99</salePrice>
+    <normalPrice>19.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.5</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>The Girl of Glass: A Summer Birds Tale</title>
+    <gameID>220753</gameID>
+    <salePrice>2.99</salePrice>
+    <normalPrice>14.99</normalPrice>
+    <steamRatingText>Positive</steamRatingText>
+    <dealRating>9.5</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Atomik: RunGunJumpGun</title>
+    <gameID>198306</gameID>
+    <salePrice>0.79</salePrice>
+    <normalPrice>7.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.4</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Dungeon Siege</title>
+    <gameID>192</gameID>
+    <salePrice>0.97</salePrice>
+    <normalPrice>6.99</normalPrice>
+    <steamRatingText>Mostly Positive</steamRatingText>
+    <dealRating>9.4</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Tomb Raider: Anniversary</title>
+    <gameID>456</gameID>
+    <salePrice>0.98</salePrice>
+    <normalPrice>8.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.4</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>The Witcher 3: Wild Hunt</title>
+    <gameID>112330</gameID>
+    <salePrice>7.99</salePrice>
+    <normalPrice>39.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>9.4</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>The Swapper</title>
+    <gameID>98043</gameID>
+    <salePrice>2.24</salePrice>
+    <normalPrice>14.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.4</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Divine Divinity</title>
+    <gameID>5082</gameID>
+    <salePrice>0.59</salePrice>
+    <normalPrice>5.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.4</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Kinetic Edge</title>
+    <gameID>225892</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>7.99</normalPrice>
+    <dealRating>9.4</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Towaga: Among Shadows</title>
+    <gameID>218228</gameID>
+    <salePrice>1.49</salePrice>
+    <normalPrice>14.99</normalPrice>
+    <steamRatingText>Positive</steamRatingText>
+    <dealRating>9.4</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Zombie Night Terror</title>
+    <gameID>154629</gameID>
+    <salePrice>1.29</salePrice>
+    <normalPrice>12.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.4</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Monster Slayers</title>
+    <gameID>167601</gameID>
+    <salePrice>1.34</salePrice>
+    <normalPrice>8.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.4</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Half-Life 2: Episode Two</title>
+    <gameID>81</gameID>
+    <salePrice>1.59</salePrice>
+    <normalPrice>7.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>9.4</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>The Witcher: Enhanced Edition Director's Cut</title>
+    <gameID>188</gameID>
+    <salePrice>1.49</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Portal</title>
+    <gameID>82</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Robin Hood: The Legend of Sherwood</title>
+    <gameID>231</gameID>
+    <salePrice>0.79</salePrice>
+    <normalPrice>7.99</normalPrice>
+    <steamRatingText>Mixed</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>FATE</title>
+    <gameID>104025</gameID>
+    <salePrice>0.79</salePrice>
+    <normalPrice>7.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Collapse!</title>
+    <gameID>106086</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>19.99</normalPrice>
+    <steamRatingText>Mostly Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Tomb Raider</title>
+    <gameID>87392</gameID>
+    <salePrice>2.24</salePrice>
+    <normalPrice>14.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Candle</title>
+    <gameID>155405</gameID>
+    <salePrice>0.99</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Mostly Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Stealth Bastard Deluxe</title>
+    <gameID>93923</gameID>
+    <salePrice>0.99</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Brothers: A Tale of Two Sons</title>
+    <gameID>101447</gameID>
+    <salePrice>2.99</salePrice>
+    <normalPrice>14.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Spelunky</title>
+    <gameID>100523</gameID>
+    <salePrice>2.99</salePrice>
+    <normalPrice>14.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Super Time Force Ultra</title>
+    <gameID>122960</gameID>
+    <salePrice>1.49</salePrice>
+    <normalPrice>14.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Super House of Dead Ninjas</title>
+    <gameID>95465</gameID>
+    <salePrice>0.69</salePrice>
+    <normalPrice>6.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Wizardry 8</title>
+    <gameID>97932</gameID>
+    <salePrice>1.49</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Goodbye Deponia</title>
+    <gameID>101882</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>19.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Tooth and Tail</title>
+    <gameID>170901</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>19.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Metal Gear Solid V: Ground Zeroes</title>
+    <gameID>140699</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>19.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Return To Mysterious Island</title>
+    <gameID>3394</gameID>
+    <salePrice>0.79</salePrice>
+    <normalPrice>7.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>PAYDAY 2</title>
+    <gameID>97936</gameID>
+    <salePrice>0.99</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.3</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>BADLAND: Game of the Year Edition</title>
+    <gameID>144076</gameID>
+    <salePrice>1.19</salePrice>
+    <normalPrice>11.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.2</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Tomb Raider: Underworld</title>
+    <gameID>643</gameID>
+    <salePrice>0.98</salePrice>
+    <normalPrice>8.99</normalPrice>
+    <steamRatingText>Mostly Positive</steamRatingText>
+    <dealRating>9.2</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Left 4 Dead</title>
+    <gameID>107</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>9.2</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Prince of Persia: The Sands of Time</title>
+    <gameID>278</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.2</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Left 4 Dead 2</title>
+    <gameID>43</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>9.2</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Sid Meier's Civilization IV</title>
+    <gameID>126</gameID>
+    <salePrice>7.49</salePrice>
+    <normalPrice>29.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.2</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>BioShock Infinite</title>
+    <gameID>93503</gameID>
+    <salePrice>7.49</salePrice>
+    <normalPrice>29.99</normalPrice>
+    <steamRatingText>Overwhelmingly Positive</steamRatingText>
+    <dealRating>9.2</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Crayon Physics Deluxe</title>
+    <gameID>709</gameID>
+    <salePrice>1.99</salePrice>
+    <normalPrice>19.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.2</dealRating>
+  </GamesDto>
+  <GamesDto>
+    <title>Closure</title>
+    <gameID>89105</gameID>
+    <salePrice>0.99</salePrice>
+    <normalPrice>9.99</normalPrice>
+    <steamRatingText>Very Positive</steamRatingText>
+    <dealRating>9.2</dealRating>
+  </GamesDto>
+</ArrayOfGamesDto>
