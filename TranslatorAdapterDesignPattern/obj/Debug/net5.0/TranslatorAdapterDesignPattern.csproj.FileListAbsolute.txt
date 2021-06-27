@@ -1,0 +1,16 @@
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\bin\Debug\net5.0\TranslatorAdapterDesignPattern.exe
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\bin\Debug\net5.0\TranslatorAdapterDesignPattern.deps.json
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\bin\Debug\net5.0\TranslatorAdapterDesignPattern.runtimeconfig.json
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\bin\Debug\net5.0\TranslatorAdapterDesignPattern.runtimeconfig.dev.json
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\bin\Debug\net5.0\TranslatorAdapterDesignPattern.dll
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\bin\Debug\net5.0\ref\TranslatorAdapterDesignPattern.dll
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\bin\Debug\net5.0\TranslatorAdapterDesignPattern.pdb
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\obj\Debug\net5.0\TranslatorAdapterDesignPattern.csprojAssemblyReference.cache
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\obj\Debug\net5.0\TranslatorAdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\obj\Debug\net5.0\TranslatorAdapterDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\obj\Debug\net5.0\TranslatorAdapterDesignPattern.AssemblyInfo.cs
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\obj\Debug\net5.0\TranslatorAdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\obj\Debug\net5.0\TranslatorAdapterDesignPattern.dll
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\obj\Debug\net5.0\ref\TranslatorAdapterDesignPattern.dll
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\obj\Debug\net5.0\TranslatorAdapterDesignPattern.pdb
+C:\Users\Norah\source\repos\TranslatorAdapterDesignPattern\TranslatorAdapterDesignPattern\obj\Debug\net5.0\TranslatorAdapterDesignPattern.genruntimeconfig.cache
