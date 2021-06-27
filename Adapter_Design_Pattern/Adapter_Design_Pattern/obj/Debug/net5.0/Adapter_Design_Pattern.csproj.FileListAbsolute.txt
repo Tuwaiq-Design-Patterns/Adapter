@@ -1,0 +1,15 @@
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/bin/Debug/net5.0/Adapter_Design_Pattern.deps.json
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/bin/Debug/net5.0/Adapter_Design_Pattern.runtimeconfig.json
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/bin/Debug/net5.0/Adapter_Design_Pattern.runtimeconfig.dev.json
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/bin/Debug/net5.0/Adapter_Design_Pattern.dll
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/bin/Debug/net5.0/ref/Adapter_Design_Pattern.dll
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/bin/Debug/net5.0/Adapter_Design_Pattern.pdb
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.csprojAssemblyReference.cache
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.AssemblyInfoInputs.cache
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.AssemblyInfo.cs
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.csproj.CoreCompileInputs.cache
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.dll
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/ref/Adapter_Design_Pattern.dll
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.pdb
+/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.genruntimeconfig.cache
