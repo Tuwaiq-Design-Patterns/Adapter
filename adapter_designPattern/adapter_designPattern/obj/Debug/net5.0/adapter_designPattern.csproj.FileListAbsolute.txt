@@ -1,0 +1,16 @@
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\bin\Debug\net5.0\adapter_designPattern.exe
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\bin\Debug\net5.0\adapter_designPattern.deps.json
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\bin\Debug\net5.0\adapter_designPattern.runtimeconfig.json
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\bin\Debug\net5.0\adapter_designPattern.runtimeconfig.dev.json
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\bin\Debug\net5.0\adapter_designPattern.dll
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\bin\Debug\net5.0\ref\adapter_designPattern.dll
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\bin\Debug\net5.0\adapter_designPattern.pdb
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\obj\Debug\net5.0\adapter_designPattern.csprojAssemblyReference.cache
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\obj\Debug\net5.0\adapter_designPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\obj\Debug\net5.0\adapter_designPattern.AssemblyInfoInputs.cache
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\obj\Debug\net5.0\adapter_designPattern.AssemblyInfo.cs
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\obj\Debug\net5.0\adapter_designPattern.csproj.CoreCompileInputs.cache
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\obj\Debug\net5.0\adapter_designPattern.dll
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\obj\Debug\net5.0\ref\adapter_designPattern.dll
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\obj\Debug\net5.0\adapter_designPattern.pdb
+C:\Users\Taghr\source\repos\adapter_designPattern\adapter_designPattern\obj\Debug\net5.0\adapter_designPattern.genruntimeconfig.cache
